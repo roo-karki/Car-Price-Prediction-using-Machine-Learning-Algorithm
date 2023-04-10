@@ -9,6 +9,6 @@ Working with Data
 Data has been split into two groups and provided in the module:
  training set
  test set
-The training set is used to build your machine-learning model. For the training set, we provide the price of a car (also known as the variable Price) for each participant.
+The training set is used to build our machine-learning model. For the training set, we provide the price of a car (also known as the variable Price) for each participant.
 
-The test set should be used to see how well your model performs on unseen data. For the test set, it is your job to predict the price of the car (Price) for each participant.
+The test set should be used to see how well our model performs on unseen data. For the test set, it is our job to predict the price of the car (Price) for each participant.
